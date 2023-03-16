@@ -1,7 +1,7 @@
 # Frontend Mentor - QR code component
 
 ### Screenshot
-![Design preview for the QR code component coding challenge](https://github.com/Shinu07/qr-code-component-main/blob/master/images/Screenshot%202023.png))
+![Design preview for the QR code component coding challenge](https://github.com/Shinu07/qr-code-component-main/blob/master/images/Screenshot%202023.png)
 
 ## Built with
 - Semantic HTML5 markup
