@@ -13,3 +13,4 @@
 media queries is very important to make a responsive websites. 
 
 ### link 
+- [Live Demo](https://qrscan-component.netlify.app/)
